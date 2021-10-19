@@ -1,0 +1,27 @@
+exercicio 1
+
+nome=input('qual seu nome?')
+idade=input('qual sua idade?')
+peso=input('qual seu peso')
+altura=input('qual sua altura')
+print(nome,idade,peso,altura)
+print('imc'(pesoaltura))
+
+exercicio 2
+
+print('Seja bem vindo ao portal Conhecimento')
+nome=input('Qual seu nome?')
+print('Ola',nome,' Seja bem vindo ao nosso portal')
+ continuação
+ 
+ print('Seja bem vindo ao portal Conhecimento')
+nome=input('Qual seu nome?')
+print('Olá',nome,'!' 'Seja bem vindo ao nosso portal')
+print('Qual sua data de nascimento?')
+dia=input('Dia=')
+mes=input('Mês=')
+ano=input('Ano=')
+print('Voçê nasceu no dia',dia,'de',mes,'de',ano,'correto?')
+
+exercicios 3
+crie um script que leia dois numeros e tente mostar a soma entre eles.
